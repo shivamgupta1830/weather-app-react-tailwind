@@ -48,7 +48,7 @@ function App() {
 
   return (
     <div
-      className="mx-auto max-w-screen-mdcd  min-h-screen
+      className="mx-auto max-w-screen-sm  min-h-screen
       p-5 px-32 bg-gradient-to-b from-cyan-500 to-blue-700  shadow-xl  shadow-gray-500 border-dotted border border-sky-400 rounded-md"
     >
       <Citybuttons setCity={setCity} />
